@@ -221,7 +221,7 @@ let _0x134a17 = new Date(),
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
     _0x180c0c = "",
-    ksjsbjk = "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ksjsbjk_1.json",
+    ksjsbjk = "https://qianxun01.coding.net/p/ksjsbzhenghe/d/qianxun/git/raw/master/666w.json",
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
@@ -3465,7 +3465,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json",
+    'uwDzR': "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3959,7 +3959,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json";
+          u = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));

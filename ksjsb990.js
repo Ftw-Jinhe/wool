@@ -2,8 +2,9 @@
 速度提升
 990+213+100
 预计日收益5-6w金币。
-5.8日去后门版(我尽量把风险降到最低，如果还是有后门就超出我的能力范围啦~)
-ps:代码缝合,我是个二改
+去后门版(我尽量把风险降到最低，如果还是有后门就超出我的能力范围啦~)
+5月10日修复跑一半失败问题by千寻
+转发留个原作者谢谢了
 */
 const $$ = Envcc('');
 let acckey = $$["isNode"]() ? process["env"]["cdkey"] ? process["env"]["cdkey"] : '' : $$["getdata"]("cdkey") ? $$["getdata"]("cdkey") : '',
@@ -922,7 +923,7 @@ class _0x9d8dda {
     }
 
     console["log"]("============================");
-    console["log"]("\n============== 欢迎使用6w千寻版本====登录中 ==============");
+    console["log"]("\n============== 登录 ==============");
 
     for (let a of _0x431ea3) {
       await a["getUserInfo"]();
@@ -1141,7 +1142,7 @@ async function _0x505e51() {
     if (a["status"] == 0) {
       if (_0x459e63 >= a["version"]) {
         _0x2e716e = true;
-        _0x75eec0 = "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json";
+        _0x75eec0 = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ksjsb-ziye.json";
         console["log"](a["msg"][a["status"]]);
         console['log'](a["updateMsg"]);
         console["log"]("现在运行的脚本版本是：1.07，最新脚本版本：" + a["latestVersion"]);
@@ -3464,7 +3465,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json",
+    'uwDzR': "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3958,7 +3959,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json";
+          u = "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));

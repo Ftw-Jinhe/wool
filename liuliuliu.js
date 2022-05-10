@@ -3465,7 +3465,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json",
+    'uwDzR': "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3959,7 +3959,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json";
+          u = "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/Ftw-Jinhe/wool/main/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));
